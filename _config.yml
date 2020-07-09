@@ -14,7 +14,7 @@ picture: assets/images/2020-profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://jaredlwong.com/mycv/extended
+resume-url: https://jaredlwong.com/resume
 
 url: https://jaredlwong.com
 # your url: https://USERNAME.github.io
