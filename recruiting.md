@@ -12,11 +12,11 @@ I'm really busy at work right now and this is the only time I can block out.
 
 ## Frequently Asked Questions
 
-**Resume or Detailed Updated Linkedln Profile?**
+### Resume or Detailed Updated Linkedln Profile?
 
 My resume can be found here [jaredlwong.com/resume](https://jaredlwong.com/resume/). My [LinkedIn Profile](https://www.linkedin.com/in/jaredlwong/) is also up to date.
 
-**How can I contact you? Email and phone number?**
+### How can I contact you? Email and phone number?
 
 Please schedule a meeting with me here [calendly.com/jaredlwong/meeting](https://calendly.com/jaredlwong/meeting).
 
@@ -26,10 +26,14 @@ I prefer VC over phone calls because my phone may automatically decline your cal
 
 My email is jaredlwong@gmail.com.
 
-**Are you open to relocation or remote work?**
+### Are you open to relocation or remote work?
 
 I'm currently located in SF. Before COVID I would have said I prefer to be in person, but since COVID I'm more open to working remotely.
 
-**What is your work authorization status?**
+### What is your work authorization status?
 
 I am a US Citizen
+
+### Are you interested in consulting?
+
+Not at this time
