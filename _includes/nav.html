@@ -22,12 +22,16 @@
             {% endif %}
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
-                </li>
-            {% endif %}
+        {% if page.title != "About" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/about">About</a>
+            </li>
+        {% endif %}
+
+        {% if page.title != "Recruiting" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/recruiting">Recruiting</a>
+            </li>
         {% endif %}
 
         {% if site.resume == true %}
