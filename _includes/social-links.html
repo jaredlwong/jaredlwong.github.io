@@ -101,6 +101,12 @@
         </a>
     {% endif %}
 
+    {% if site.calendly %}
+        <a class="link" data-title="{{ site.calendly }}" href="https://calendly.com/{{ site.calendly }}" target="_blank">
+            <i class="far fa-calendar-check"></i>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <i class="far fa-envelope"></i>
