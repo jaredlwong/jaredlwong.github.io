@@ -12,9 +12,11 @@ I'm really busy at work right now and this is the only time I can block out.
 
 ## Frequently Asked Questions
 
-### Resume or Detailed Updated Linkedln Profile?
+### Where can I find your resume? Do you have an up to date Linkedln Profile?
 
-My resume can be found here [jaredlwong.com/resume](https://jaredlwong.com/resume/). My [LinkedIn Profile](https://www.linkedin.com/in/jaredlwong/) is also up to date.
+My resume can be found here [jaredlwong.com/resume](https://jaredlwong.com/resume/).
+
+My [LinkedIn Profile](https://www.linkedin.com/in/jaredlwong/) is also up to date.
 
 ### How can I contact you? Email and phone number?
 
