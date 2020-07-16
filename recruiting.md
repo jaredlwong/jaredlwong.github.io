@@ -4,38 +4,29 @@ layout: page
 ---
 # Hi There!
 
-I'm open to exploring options.
+I'm not actively looking at the moment. However, I am always on the lookout for
+a great opportunity.
 
-If you'd like to get time with me, please find time on here [calendly.com/jaredlwong/meeting](https://calendly.com/jaredlwong/meeting).
+In any future opportunity I am looking for a compelling product that has
+opportunity for growth. I am also looking for a role that would allow me to
+grow.
 
-I'm really busy at work right now and this is the only time I can block out.
+I'm not currently interested in trading, gaming, or cryptocurrency companies.
 
-## Frequently Asked Questions
+In terms of type of work, I'm currently working on Trust and Safety (fighting
+spam and unsafe content) at Pinterest, and have some related experience with
+recommendation systems and infrastructure related work. I like this work since
+it is really important in the broader tech industry at the moment. I'm open to
+other areas outside of Trust and Safety and recommendations. If you want to
+learn more about past experience you can print my resume here
+[jaredlwong.com/resume](https://jaredlwong.com/resume/) and my
+[LinkedIn](https://www.linkedin.com/in/jaredlwong/) is also up to date.
 
-### Where can I find your resume? Do you have an up to date Linkedln Profile?
+I'm currently located in SF, open to work around the Bay Area. Before COVID I
+would have said I prefer to be in person, but since COVID I'm more open to
+working remotely.
 
-My resume can be found here [jaredlwong.com/resume](https://jaredlwong.com/resume/).
-
-My [LinkedIn Profile](https://www.linkedin.com/in/jaredlwong/) is also up to date.
-
-### How can I contact you? Email and phone number?
-
-Please schedule a meeting with me here [calendly.com/jaredlwong/meeting](https://calendly.com/jaredlwong/meeting).
-
-Through calendly you can choose to set up a Google Meet or Zoom meeting. You may also specify your own VC link if those don't work for you.
-
-I prefer VC over phone calls because my phone may automatically decline your call, especially those not in my contact list. Unfortunately I had to turn this on due to a high amount of spam calls.
-
-My email is jaredlwong@gmail.com.
-
-### Are you open to relocation or remote work?
-
-I'm currently located in SF. Before COVID I would have said I prefer to be in person, but since COVID I'm more open to working remotely.
-
-### What is your work authorization status?
-
-I am a US Citizen
-
-### Are you interested in consulting?
-
-Not at this time
+I am open to exploratory conversations if you think it could be helpful.
+If you want to grab some time to chat I'm free at these times (I'm pretty busy
+at the moment with my team, apologies in advance):
+[calendly.com/jaredlwong/meeting](https://calendly.com/jaredlwong/meeting).
