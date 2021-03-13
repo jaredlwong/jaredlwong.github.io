@@ -37,8 +37,8 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-pinterest: jaredlwong
-linkedin: jaredlwong
+# pinterest: jaredlwong
+# linkedin: jaredlwong
 # youtube: myyoutube
 # spotify: myspotify
 github: jaredlwong
@@ -50,7 +50,7 @@ github: jaredlwong
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-calendly: "jaredlwong/meeting"
+# calendly: "jaredlwong/meeting"
 email: jaredlwong@gmail.com
 
 authors:
